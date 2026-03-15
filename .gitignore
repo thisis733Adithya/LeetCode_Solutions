@@ -1,0 +1,17 @@
+# Ignore compiled Java files
+*.class
+
+# Optional (good practice for Java projects)
+*.log
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Build folders
+target/
+build/
